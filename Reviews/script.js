@@ -49,3 +49,13 @@ randomBtn.addEventListener('click',()=>{
     currentItem = Math.floor(Math.random() * reviews.length)
     showPersonInfo()
 })
+
+function anyName(){
+    let a = 4
+    const b = 3
+     c = 34
+    console.log(a)
+    console.log(b)
+    console.log(c)
+}
+
